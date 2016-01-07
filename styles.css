@@ -79,6 +79,7 @@ header .profile-image:hover {
 header .profile-image:active {
   transform: scale(1.5) rotate(-360deg);
 }
+
 .tag {
   background-color: #efefef;
   color: black;
@@ -87,6 +88,12 @@ header .profile-image:active {
   display: table;
   margin: 10px auto;
 } 
+.center {
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+}
 .location {
   background-color: #222;
   color: yellow;
